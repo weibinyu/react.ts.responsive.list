@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.5446f3e6.chunk.css",
-    "main.js": "/static/js/main.a985d87b.chunk.js",
-    "main.js.map": "/static/js/main.a985d87b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4187fb0d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4187fb0d.js.map",
-    "static/js/2.a4e36fbc.chunk.js": "/static/js/2.a4e36fbc.chunk.js",
-    "static/js/2.a4e36fbc.chunk.js.map": "/static/js/2.a4e36fbc.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.5446f3e6.chunk.css.map": "/static/css/main.5446f3e6.chunk.css.map",
-    "static/js/2.a4e36fbc.chunk.js.LICENSE.txt": "/static/js/2.a4e36fbc.chunk.js.LICENSE.txt"
+    "main.css": "/react.mobil.recruitment/static/css/main.5446f3e6.chunk.css",
+    "main.js": "/react.mobil.recruitment/static/js/main.a985d87b.chunk.js",
+    "main.js.map": "/react.mobil.recruitment/static/js/main.a985d87b.chunk.js.map",
+    "runtime-main.js": "/react.mobil.recruitment/static/js/runtime-main.1b0e0515.js",
+    "runtime-main.js.map": "/react.mobil.recruitment/static/js/runtime-main.1b0e0515.js.map",
+    "static/js/2.a4e36fbc.chunk.js": "/react.mobil.recruitment/static/js/2.a4e36fbc.chunk.js",
+    "static/js/2.a4e36fbc.chunk.js.map": "/react.mobil.recruitment/static/js/2.a4e36fbc.chunk.js.map",
+    "index.html": "/react.mobil.recruitment/index.html",
+    "static/css/main.5446f3e6.chunk.css.map": "/react.mobil.recruitment/static/css/main.5446f3e6.chunk.css.map",
+    "static/js/2.a4e36fbc.chunk.js.LICENSE.txt": "/react.mobil.recruitment/static/js/2.a4e36fbc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4187fb0d.js",
+    "static/js/runtime-main.1b0e0515.js",
     "static/js/2.a4e36fbc.chunk.js",
     "static/css/main.5446f3e6.chunk.css",
     "static/js/main.a985d87b.chunk.js"

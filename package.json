@@ -154,5 +154,6 @@
     "presets": [
       "react-app"
     ]
-  }
+  },
+  "homepage" : "https://weibinyu.github.io/react.mobil.recruitment"
 }
