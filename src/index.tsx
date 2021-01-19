@@ -1,11 +1,11 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './assets/stylesheet/index.less';
+import React from "react";
+import { render } from "react-dom";
+import "./assets/stylesheet/index.css"
+import Category from "./containers/Category/Category";
 
-ReactDOM.render(
-  <React.StrictMode>
-
-  </React.StrictMode>,
-  document.getElementById('root')
+render(
+    <React.StrictMode>
+      <Category />
+    </React.StrictMode>,
+    document.getElementById("root")
 );
-
