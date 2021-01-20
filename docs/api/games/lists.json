@@ -10,25 +10,25 @@
           "id": 1,
           "title": "Copy Cat",
           "provider": "NetEnt",
-          "image": "/resources/roundel-copy-cat.png"
+          "image": "/react.ts.responsive.list/resources/roundel-copy-cat.png"
         },
         {
           "id": 2,
           "title": "Casino Island",
           "provider": "Paf Studios",
-          "image": "/resources/roundel-casino-island.png"
+          "image": "/react.ts.responsive.list/resources/roundel-casino-island.png"
         },
         {
           "id": 3,
           "title": "Schlager Slotten",
           "provider": "Paf Studios",
-          "image": "/resources/roundel-schlager-slotten.png"
+          "image": "/react.ts.responsive.list/resources/roundel-schlager-slotten.png"
         },
         {
           "id": 4,
           "title": "Cash & Carry",
           "provider": "Paf Studios",
-          "image": "/resources/roundel-cash-carry.png"
+          "image": "/react.ts.responsive.list/resources/roundel-cash-carry.png"
         }
       ]
     },
@@ -40,25 +40,25 @@
           "id": 4,
           "title": "Cash & Carry",
           "provider": "Paf Studios",
-          "image": "/resources/roundel-cash-carry.png"
+          "image": "/react.ts.responsive.list/resources/roundel-cash-carry.png"
         },
         {
           "id": 2,
           "title": "Casino Island",
           "provider": "Paf Studios",
-          "image": "/resources/roundel-casino-island.png"
+          "image": "/react.ts.responsive.list/resources/roundel-casino-island.png"
         },
         {
           "id": 1,
           "title": "Copy Cat",
           "provider": "NetEnt",
-          "image": "/resources/roundel-copy-cat.png"
+          "image": "/react.ts.responsive.list/resources/roundel-copy-cat.png"
         },
         {
           "id": 3,
           "title": "Schlager Slotten",
           "provider": "Paf Studios",
-          "image": "/resources/roundel-schlager-slotten.png"
+          "image": "/react.ts.responsive.list/resources/roundel-schlager-slotten.png"
         }
       ]
     },
@@ -70,25 +70,25 @@
           "id": 3,
           "title": "Schlager Slotten",
           "provider": "Paf Studios",
-          "image": "/resources/roundel-schlager-slotten.png"
+          "image": "/react.ts.responsive.list/resources/roundel-schlager-slotten.png"
         },
         {
           "id": 4,
           "title": "Cash & Carry",
           "provider": "Paf Studios",
-          "image": "/resources/roundel-cash-carry.png"
+          "image": "/react.ts.responsive.list/resources/roundel-cash-carry.png"
         },
         {
           "id": 1,
           "title": "Copy Cat",
           "provider": "NetEnt",
-          "image": "/resources/roundel-copy-cat.png"
+          "image": "/react.ts.responsive.list/resources/roundel-copy-cat.png"
         },
         {
           "id": 2,
           "title": "Casino Island",
           "provider": "Paf Studios",
-          "image": "/resources/roundel-casino-island.png"
+          "image": "/react.ts.responsive.list/resources/roundel-casino-island.png"
         }
       ]
     }
