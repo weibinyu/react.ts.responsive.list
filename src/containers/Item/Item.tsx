@@ -7,9 +7,11 @@ export default class Item extends React.Component<ItemProps> {
 
         return (
             <div className={"item"}>
-                <div className={"img-background"}></div>
-                <div className={"img-container"}>
-                    <img src={image} alt={title} />
+                <div className={"imgAndBackground-container"}>
+                    <div className={"img-background"}/>
+                    <div className={"img-container"}>
+                        <img src={image} alt={title} />
+                    </div>
                 </div>
                 <p>{title}</p>
             </div>

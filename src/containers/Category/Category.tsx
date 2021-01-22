@@ -32,7 +32,7 @@ export default class Category extends React.Component<{}, CategoryStates> {
         const { title, description, lists } = this.state.category;
         const { filtedLists } = this.state;
         return (
-            <>
+            <div className={"category-container"}>
                 <p className={"category-title"}>
                     <strong>{title}</strong>
                 </p>
@@ -46,7 +46,7 @@ export default class Category extends React.Component<{}, CategoryStates> {
                         <List list={list} key={list.id} />
                     ))}
                 </div>
-            </>
+            </div>
         );
     }
 }
